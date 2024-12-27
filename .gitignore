@@ -1,0 +1,27 @@
+
+# 忽略 Visual Studio 临时文件
+.vs/
+.vs2019/
+.vs2017/
+.vs2022/
+*.user
+*.userosscache
+*.suo
+*.userprefs
+
+# 忽略 Windows 系统文件
+Thumbs.db
+Desktop.ini
+
+# 忽略 Node.js 和 npm 生成的文件
+node_modules/
+
+# 忽略编译输出文件
+bin/
+obj/
+
+# 忽略 macOS 系统文件
+.DS_Store
+
+# 忽略 jpg文件，因为太多了
+*.jpg

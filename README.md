@@ -44,6 +44,8 @@
 - Main.cpp 为主函数文件
 - Myfunction类 为功能函数文件
 - CLbp类 为LBP相关函数文件
+- resource文件夹下有视频文件
+- model压缩包中包含已经训练好的模型文件（请对应代码使用）
 
 ## 使用方法
 

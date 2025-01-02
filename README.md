@@ -51,8 +51,8 @@
 在此特别感谢以下人员和资源对本项目的支持：  
 
 - **Lieos123**，作为项目主要贡献者，完成了项目的核心代码与设计。  
-- **CSDN 博主 [tmacfrank的学习日志]([文章链接](https://blog.csdn.net/tmacfrank/article/details/138391552?spm=1001.2014.3001.5506))**，其文章《OpenCV入门》为本项目的开发提供了宝贵的思路和参考。
-- - **GitHub 项目 [Tiam-Q/classify]([项目链接](https://github.com/Tiam-Q/classify))**，由 [Tiam-Q]([作者主页链接](https://github.com/Tiam-Q)) 创建，其代码和思路为本项目提供了宝贵的SVM模型训练启发和指导。
+- **CSDN 博主 [tmacfrank的学习日志](https://blog.csdn.net/tmacfrank/article/details/138391552?spm=1001.2014.3001.5506)**，其文章《OpenCV入门》为本项目的开发提供了宝贵的思路和参考。
+- **GitHub 项目 [Tiam-Q/classify][https://github.com/Tiam-Q/classify]**，由 [Tiam-Q](https://github.com/Tiam-Q) 创建，其代码和思路为本项目提供了宝贵的SVM模型训练启发和指导。
 - 开源社区的贡献者们，分享了宝贵的经验与建议。
 
 如果您在项目使用或开发过程中遇到问题，欢迎联系我，或提交 issue，我们将共同探讨改进。  

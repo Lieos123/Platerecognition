@@ -23,10 +23,36 @@
 
 ## 功能特点
 
-- 功能 1：提取关键帧序列
-- 功能 2：sobel算法提取车牌
-- 功能 3：车牌字符识别
+1. **提取关键帧序列**  
+   使用帧差法或背景减法提取视频中含有车辆的关键帧，为后续处理提供高效的输入源。  
+
+2. **Sobel 算法提取车牌**  
+   基于 Sobel 算法的边缘检测，对关键帧进行处理，提取车牌区域，结合形态学滤波去除噪声。  
+
+3. **车牌字符识别**  
+   使用 LBP 算法提取特征，并基于 SVM 分类器对车牌字符进行精准识别，输出车牌号结果。
 
 ## 安装教程
 
+1. 请确保本地已安装 OpenCV 库。  
+   - OpenCV 下载与配置参考：B站教程 [BV1um411r7yj](https://www.bilibili.com/video/BV1um411r7yj)  
+2. 下载或克隆本项目代码：  
+   ```bash
+   git clone https://github.com/Lieos123/LicensePlateRecognition.git
 
+## 项目结构
+
+- Main.cpp 为主函数文件
+- Myfunction类 为功能函数文件
+- CLbp类 为LBP相关函数文件
+
+## 致谢  
+
+在此特别感谢以下人员和资源对本项目的支持：  
+
+- **Lieos123**，作为项目主要贡献者，完成了项目的核心代码与设计。  
+- **CSDN 博主 [tmacfrank的学习日志]([文章链接](https://blog.csdn.net/tmacfrank/article/details/138391552?spm=1001.2014.3001.5506))**，其文章《OpenCV入门》为本项目的开发提供了宝贵的思路和参考。
+- - **GitHub 项目 [Tiam-Q/classify]([项目链接](https://github.com/Tiam-Q/classify))**，由 [Tiam-Q]([作者主页链接](https://github.com/Tiam-Q)) 创建，其代码和思路为本项目提供了宝贵的SVM模型训练启发和指导。
+- 开源社区的贡献者们，分享了宝贵的经验与建议。
+
+如果您在项目使用或开发过程中遇到问题，欢迎联系我，或提交 issue，我们将共同探讨改进。  

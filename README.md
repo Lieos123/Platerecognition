@@ -85,5 +85,6 @@
 - **CSDN 博主 [tmacfrank的学习日志](https://blog.csdn.net/tmacfrank/article/details/138391552?spm=1001.2014.3001.5506)**，其文章《OpenCV入门》为本项目的开发提供了宝贵的思路和参考。
 - **GitHub 项目 [Tiam-Q/classify][https://github.com/Tiam-Q/classify]**，由 [Tiam-Q](https://github.com/Tiam-Q) 创建，其代码和思路为本项目提供了宝贵的SVM模型训练启发和指导。
 - 开源社区的贡献者们，分享了宝贵的经验与建议。
+- 如果项目对你有帮助，请给予一个star，谢谢啦。
 
 如果您在项目使用或开发过程中遇到问题，欢迎联系我，或提交 issue，我们将共同探讨改进。  

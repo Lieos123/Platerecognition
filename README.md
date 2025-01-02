@@ -78,6 +78,12 @@
   git clone https://github.com/您的账户/项目名.git
   cd 项目名
 
+## 许可证
+
+本项目使用 [MIT 许可证](https://opensource.org/licenses/MIT)。  
+您可以自由地使用、修改和分发本项目的代码，但在使用过程中需保留原作者的版权声明。
+
+详细许可证内容参照仓库中的许可证文件
 
 ## 致谢  
 
